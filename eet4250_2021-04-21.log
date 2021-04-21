@@ -1,0 +1,12 @@
+INFO:2021-04-21 21:27:33.9829:ConnectionTest.Program.Main:Testing Connection
+DEBUG:2021-04-21 21:27:34.4042:ConnectionTest.Program.Main(Program.cs:16):Connected
+DEBUG:2021-04-21 21:27:34.4133:ConnectionTest.Program.Main(Program.cs:18):Calculating Average for Question 2
+DEBUG:2021-04-21 21:27:34.4558:ConnectionTest.Program.Main(Program.cs:18):Average Temperature: 55.935949807478366
+DEBUG:2021-04-21 21:27:34.4558:ConnectionTest.Program.Main(Program.cs:18):Completed Question 2, Moving on to Question 3
+DEBUG:2021-04-21 21:27:34.4645:ConnectionTest.Program.Main(Program.cs:19):Beginning Merge of Data Sets for Question: 3
+DEBUG:2021-04-21 21:27:34.4910:ConnectionTest.Program.Main(Program.cs:19):Rows Affected: 49
+DEBUG:2021-04-21 21:27:34.4910:ConnectionTest.Program.Main(Program.cs:19):Completed Question 3, Moving on to Question 4
+DEBUG:2021-04-21 21:27:34.4910:ConnectionTest.Program.Main(Program.cs:20):Calculating Average for Question 4
+DEBUG:2021-04-21 21:27:34.4910:ConnectionTest.Program.Main(Program.cs:20):Average Temperature: 53.01973998347974
+DEBUG:2021-04-21 21:27:34.4910:ConnectionTest.Program.Main(Program.cs:20):Completed Question: 4
+INFO:2021-04-21 21:27:34.4910:ConnectionTest.Program.Main:Completed Successfully
